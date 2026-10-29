@@ -9,7 +9,7 @@ A collection of circuit simulations created using **NI Multisim** for electrical
 | `01-Resistive-Circuit-Measurements/` | **Mesures dans les circuits résistifs** (Resistive Circuit Measurements) | `Design1.ms14` – `Design5.ms14` |
 | `02-Resistor-Networks-Thevenin-Oscilloscope/` | **Réseaux de résistances, théorème de Thévenin et bases de l'oscilloscope** (Resistor Networks, Thévenin's Theorem & Oscilloscope Basics) | `Design1.ms14` – `Design3.ms14` |
 
-Folder titles follow the supplied laboratory manual headings. Individual schematic functions have **not** been inferred from the binary `.ms14` files.
+These simulations explore fundamental electrical engineering concepts, including resistive circuit analysis, Thévenin equivalents, and circuit measurement techniques.
 
 ## Open a design
 
