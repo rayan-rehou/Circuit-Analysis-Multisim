@@ -2,8 +2,6 @@
 
 A collection of circuit simulations created using **NI Multisim** for electrical engineering coursework at the **University of Ottawa**.
 
-> **Academic work:** Keep this repository **private** unless the course instructor authorizes publication of assessed work. Do not upload lab manuals, assignment solutions, or collaborators' files publicly without permission.
-
 ## Circuit topics
 
 | Folder | Lab manual title | Source designs |
