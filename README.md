@@ -17,10 +17,6 @@ Folder titles follow the supplied laboratory manual headings. Individual schemat
 2. Open a `.ms14` file in either topic folder.
 3. Run the simulation and inspect the schematic and readings.
 
-## Portfolio documentation (to add)
-
-To make the work understandable without Multisim, add your own schematic screenshots, measurements, simulation observations, and explanations. Where allowed, consider creating a separate public portfolio repository with original, independently designed circuits rather than publishing assessed solutions.
-
 ## Tools
 
 - NI Multisim
