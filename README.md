@@ -11,11 +11,11 @@ A collection of circuit simulations created using **NI Multisim** for electrical
 
 These simulations explore fundamental electrical engineering concepts, including resistive circuit analysis, Thévenin equivalents, and circuit measurement techniques.
 
-## Open a design
+## How to Run the Simulations
 
-1. Install a compatible version of **NI Multisim**.
-2. Open a `.ms14` file in either topic folder.
-3. Run the simulation and inspect the schematic and readings.
+1. Open the project using a compatible version of **NI Multisim**.
+2. Select a `.ms14` circuit file from either folder.
+3. Run the simulation to explore the circuit's behaviour and electrical measurements.
 
 ## Tools
 
