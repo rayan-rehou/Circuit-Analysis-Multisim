@@ -1,4 +1,4 @@
-# ELG2538 | Circuit Analysis & Simulation (NI Multisim)
+# Circuit Analysis & Simulation (NI Multisim)
 
 A collection of circuit simulations created using **NI Multisim** for electrical engineering coursework at the **University of Ottawa**.
 
